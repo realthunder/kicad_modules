@@ -1,0 +1,21 @@
+[submodule "Connectors_Molex.pretty"]
+	path = Connectors_Molex.pretty
+	url = git@github.com:realthunder/Connectors_Molex.pretty.git
+[submodule "Micro_Switches_ALPS.pretty"]
+	path = Micro_Switches_ALPS.pretty
+	url = git@github.com:realthunder/Micro_Switches_ALPS.pretty.git
+[submodule "packages3d/Connectors_Molex.3dshapes"]
+	path = packages3d/Connectors_Molex.3dshapes
+	url = git@github.com:realthunder/Connectors_Molex.3dshapes.git
+[submodule "packages3d/Micro_Switches_ALPS.3dshapes"]
+	path = packages3d/Micro_Switches_ALPS.3dshapes
+	url = git@github.com:realthunder/Micro_Switches_ALPS.3dshapes.git
+[submodule "3dgen"]
+	path = 3dgen
+	url = git@github.com:realthunder/kicad_3dgen.git
+[submodule "packages3d/Capacitors_SMD.3dshapes"]
+	path = packages3d/Capacitors_SMD.3dshapes
+	url = git@github.com:realthunder/Capacitors_SMD.3dshapes.git
+[submodule "packages3d/Resistors_SMD.3dshapes"]
+	path = packages3d/Resistors_SMD.3dshapes
+	url = git@github.com:realthunder/Resistors_SMD.3dshapes.git

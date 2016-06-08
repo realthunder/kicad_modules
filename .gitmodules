@@ -19,3 +19,9 @@
 [submodule "packages3d/Resistors_SMD.3dshapes"]
 	path = packages3d/Resistors_SMD.3dshapes
 	url = git@github.com:realthunder/Resistors_SMD.3dshapes.git
+[submodule "packages3d/SuperLED.3dshapes"]
+	path = packages3d/SuperLED.3dshapes
+	url = git@github.com:realthunder/SuperLED.3dshapes.git
+[submodule "SuperLED.pretty"]
+	path = SuperLED.pretty
+	url = git@github.com:realthunder/SuperLED.pretty.git

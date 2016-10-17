@@ -25,3 +25,12 @@
 [submodule "SuperLED.pretty"]
 	path = SuperLED.pretty
 	url = git@github.com:realthunder/SuperLED.pretty.git
+[submodule "TO_SOT_Packages_SMD.pretty"]
+	path = TO_SOT_Packages_SMD.pretty
+	url = git@github.com:realthunder/TO_SOT_Packages_SMD.pretty.git
+[submodule "Resistors_SMD.pretty"]
+	path = Resistors_SMD.pretty
+	url = git@github.com:realthunder/Resistors_SMD.pretty.git
+[submodule "Capacitors_SMD.pretty"]
+	path = Capacitors_SMD.pretty
+	url = git@github.com:realthunder/Capacitors_SMD.pretty.git

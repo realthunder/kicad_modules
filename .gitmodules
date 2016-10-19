@@ -34,3 +34,36 @@
 [submodule "Capacitors_SMD.pretty"]
 	path = Capacitors_SMD.pretty
 	url = git@github.com:realthunder/Capacitors_SMD.pretty.git
+[submodule "Housings_SSOP.pretty"]
+	path = Housings_SSOP.pretty
+	url = git@github.com:realthunder/Housings_SSOP.pretty.git
+[submodule "packages3d/Housings_SSOP.3dshapes"]
+	path = packages3d/Housings_SSOP.3dshapes
+	url = git@github.com:realthunder/Housings_SSOP.3dshapes.git
+[submodule "Crystals.pretty"]
+	path = Crystals.pretty
+	url = git@github.com:realthunder/Crystals.pretty.git
+[submodule "packages3d/Crystals.3dshapes"]
+	path = packages3d/Crystals.3dshapes
+	url = git@github.com:realthunder/Crystals.3dshapes.git
+[submodule "Buttons_Switches_SMD.pretty"]
+	path = Buttons_Switches_SMD.pretty
+	url = git@github.com:realthunder/Buttons_Switches_SMD.pretty.git
+[submodule "Buttons_Switches_THT.pretty"]
+	path = Buttons_Switches_THT.pretty
+	url = git@github.com:realthunder/Buttons_Switches_THT.pretty
+[submodule "packages3d/Buttons_Switches_SMD.3dshapes"]
+	path = packages3d/Buttons_Switches_SMD.3dshapes
+	url = git@github.com:realthunder/Buttons_Switches_SMD.3dshapes.git
+[submodule "Housings_DFN_QFN.pretty"]
+	path = Housings_DFN_QFN.pretty
+	url = git@github.com:realthunder/Housings_DFN_QFN.pretty.git
+[submodule "Mounting_Holes.pretty"]
+	path = Mounting_Holes.pretty
+	url = git@github.com:realthunder/Mounting_Holes.pretty.git
+[submodule "Connectors_Amass.pretty"]
+	path = Connectors_Amass.pretty
+	url = git@github.com:realthunder/Connectors_Amass.pretty.git
+[submodule "packages3d/Connectors_Amass.3dshapes"]
+	path = packages3d/Connectors_Amass.3dshapes
+	url = git@github.com:realthunder/Connectors_Amass.3dshapes.git

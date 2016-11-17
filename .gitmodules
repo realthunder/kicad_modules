@@ -67,3 +67,36 @@
 [submodule "packages3d/Connectors_Amass.3dshapes"]
 	path = packages3d/Connectors_Amass.3dshapes
 	url = git@github.com:realthunder/Connectors_Amass.3dshapes.git
+[submodule "Socket_Strips.pretty"]
+	path = Socket_Strips.pretty
+	url = git@github.com:realthunder/Socket_Strips.pretty.git
+[submodule "Pin_Headers.pretty"]
+	path = Pin_Headers.pretty
+	url = git@github.com:realthunder/Pin_Headers.pretty.git
+[submodule "packages3d/Socket_Strips.3dshapes"]
+	path = packages3d/Socket_Strips.3dshapes
+	url = git@github.com:realthunder/Socket_Strips.3dshapes.git
+[submodule "packages3d/Pin_Headers.3dshapes"]
+	path = packages3d/Pin_Headers.3dshapes
+	url = git@github.com:realthunder/Pin_Headers.3dshapes.git
+[submodule "Misc.pretty"]
+	path = Misc.pretty
+	url = git@github.com:realthunder/Misc.pretty.git
+[submodule "Inductors.pretty"]
+	path = Inductors.pretty
+	url = git@github.com:realthunder/Inductors.pretty.git
+[submodule "packages3d/Inductors.3dshapes"]
+	path = packages3d/Inductors.3dshapes
+	url = git@github.com:realthunder/Inductors.3dshapes.git
+[submodule "Housings_QFP.pretty"]
+	path = Housings_QFP.pretty
+	url = git@github.com:realthunder/Housings_QFP.pretty.git
+[submodule "packages3d/Housings_QFP.3dshapes"]
+	path = packages3d/Housings_QFP.3dshapes
+	url = git@github.com:realthunder/Housings_QFP.3dshapes.git
+[submodule "packages3d/TO_SOT_Packages_SMD.3dshapes"]
+	path = packages3d/TO_SOT_Packages_SMD.3dshapes
+	url = git@github.com:realthunder/TO_SOT_Packages_SMD.3dshapes.git
+[submodule "packages3d/Housings_SOIC.3dshapes"]
+	path = packages3d/Housings_SOIC.3dshapes
+	url = git@github.com:realthunder/Housings_SOIC.3dshapes.git

@@ -100,3 +100,18 @@
 [submodule "packages3d/Housings_SOIC.3dshapes"]
 	path = packages3d/Housings_SOIC.3dshapes
 	url = git@github.com:realthunder/Housings_SOIC.3dshapes.git
+[submodule "Diodes_SMD.pretty"]
+	path = Diodes_SMD.pretty
+	url = git@github.com:realthunder/Diodes_SMD.pretty.git
+[submodule "packages3d/Diodes_SMD.3dshapes"]
+	path = packages3d/Diodes_SMD.3dshapes
+	url = git@github.com:realthunder/Diodes_SMD.3dshapes.git
+[submodule "Connectors_JST.pretty"]
+	path = Connectors_JST.pretty
+	url = git@github.com:realthunder/Connectors_JST.pretty.git
+[submodule "Capacitors_THT.pretty"]
+	path = Capacitors_THT.pretty
+	url = git@github.com:realthunder/Capacitors_THT.pretty.git
+[submodule "packages3d/Capacitors_ThroughHole.3dshapes"]
+	path = packages3d/Capacitors_ThroughHole.3dshapes
+	url = git@github.com:realthunder/Capacitors_THT.3dshapes.git
